@@ -1,25 +1,26 @@
 # 🎮 GMTK Game Jam 2025 – [Game Title]
 
 Welcome to our submission for the **GMTK Game Jam 2025**!  
-This is a fast-paced game built in under 48 hours based on the jam's official theme: **_“[Insert Theme Here]”_**.
+This is a fast-paced game built in under 96 hours based on the jam's official theme: **_“[Insert Theme Here]”_**.
 
-![screenshot or logo here if available]
+![game picture will be added in the future]
 
 ## 🕹️ About the Game
 
-**[Game Title]** is a [genre, e.g., puzzle-platformer, roguelike, etc.] where you [1-2 sentence gameplay hook].
+**[Game Title]** is a [...] where you [...].
 
 Built from scratch using:
-- 🛠️ **Engine**: [e.g., Unity / Godot / Unreal / custom]
-- 🎨 **Art**: [e.g., original pixel art / free assets / hand-drawn]
-- 🎵 **Audio**: [e.g., original chiptune / royalty-free SFX / generated sounds]
+- 🛠️ **Engine**: [Unity]
+- 🎨 **Art**: [Asprite]
+- 🎵 **Audio**: [Abelton]
 
 ## 📦 How to Play
 
 ### Download
-- Itch.io: [Link to your itch.io page (when available)]
+- Itch.io: [will be added in the future]
 
 ### Controls
+(only an example, will be edited in the future)
 | Action        | Key/Control        |
 |---------------|--------------------|
 | Move          | [WASD / Arrows]    |
@@ -37,30 +38,26 @@ Play directly in your browser via [Itch.io link].
 **Standalone Builds**:
 Download ZIP for:
 - 🪟 Windows
-- 🍎 macOS
-- 🐧 Linux
 
 Unzip and run the executable.
 
 ## 👨‍👩‍👧‍👦 Team
 
-- 🎨 [Name] – Art & Animation  
-- 🎼 [Name] – Sound & Music  
-- 💻 [Name] – Programming  
-- 🧠 [Name] – Design & Writing  
+- 🎨 [Eilaml, Ich1toni, WD_master, User_23452/Mahatma] – Art & Animation  
+- 🎼 [Ich1toni] – Sound Design & Music  
+- 💻 [Ich1toni, WD_master, User_23452/Mahatma, not_samur/tahatATZUM] – Programming  
+- 🧠 [Ich1toni, WD_master, User_23452/Mahatma, not_samur/tahatATZUM] – Design & Writing  
 
 > Built with love during GMTK Game Jam 2025 ❤️
 
 ## 📝 Dev Notes
 
-This was made in less than 48 hours! Expect some bugs, unpolished areas, and lots of passion.  
-We plan to polish this post-jam based on feedback.
+will be added in the future
 
 ## 📜 License
 
-This project is [MIT / GPL / Creative Commons / etc.] licensed.  
-Assets may have separate licenses (see `CREDITS.md` if needed).
+will be added (if needed) in the future
 
 ---
 
-**Thanks for checking out our game!** If you enjoyed it, leave us a comment or rating on Itch.io.
+**Thanks for checking out our game!** If you enjoyed it, leave us a comment or rating on Itch.io (you better give us a 5 star rating).
