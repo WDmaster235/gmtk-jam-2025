@@ -14,7 +14,7 @@ public class Pausescreen : MonoBehaviour
         pauseScreen = GameObject.Find("PauseScreen");
     }
 
-    // Start is called before the first frame update
+    // ???? ?? ??? ???????? ?????
     void Start()
     {
         pauseScreen.SetActive(false);

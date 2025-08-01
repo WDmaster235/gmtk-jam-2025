@@ -13,7 +13,7 @@ public class ButtonsControlerMainmanue : MonoBehaviour
         rules = GameObject.Find("Rules");
     }
 
-    // Start is called before the first frame update
+    // ???? ?? ??? ???????? ?????
     void Start()
     {
         rules.SetActive(false);
